@@ -4,13 +4,13 @@ name: Hanwen Shen
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Hanwen Shen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: CS master's student
+role: CS Master's student
 
 # Organizations/Affiliations
 organizations:
@@ -18,10 +18,11 @@ organizations:
   url: "https://www.cs.jhu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: CS master's student at JHU. Now focus on robotics.
+bio: CS Master's student at JHU. Now focus on robotics and computer graphics.
 
 interests:
 - Robotics
+- Computer Graphics
 - Computer Vision
 - Machine Learning
 
@@ -67,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-CS master's student at JHU. Previous experience in computer vision and software engineering. Bachelor's thesis proposes a constraint to better describe occlusion in the stereo matching problem using contour information. Now focus on robotics.
+CS Master's student at JHU. Previous experience in computer vision and software engineering. Bachelor's thesis proposes a constraint to better describe occlusion in the stereo matching problem using contour information. Now focus on robotics and computer graphics.
