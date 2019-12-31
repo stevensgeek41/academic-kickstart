@@ -27,8 +27,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Helped develop an optical axis automatic calibration system
-  * Participated in a human pose estimation project based on deep learning
+  * Finished a human pose estimation project to demonstrate real-time human pose with virtual characters in Unity3d
+  * Built an optical axis automatic calibration system, featuring a data processing module, a UI module, and a motor-control module
   """
 
 [[experience]]
@@ -40,9 +40,9 @@ date_format = "Jan 2006"
   date_end = "2018-09-01"
   description = """
   Responsibilities include:
-  
-  * Reimplemented 
-  * 
+  * Contributed to an open-source PerfCV library aimed at optimizing OpenCV performance on GPU
+  * Re-implemented certain functions of OpenCV C++ source code using C and OpenCL, leading to applications like video stitching
+
   """
 
 [[experience]]
@@ -54,8 +54,9 @@ date_format = "Jan 2006"
   date_end = "2019-06-01"
   description = """
   Responsibilities include:
-  * Conducted research on stereo matching, especially global optimization
-  * Proposed a constraint to better describe occlusion using contour information
+  * Conducted research investigation on stereo matching and implemented algorithms of classical papers using MATLAB
+  * Proposed a novel constraint of correspondent pixels based on geometry observation made easy by aligned-contours from two input images
+
   """
 
 +++

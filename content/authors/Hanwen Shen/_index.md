@@ -18,13 +18,14 @@ organizations:
   url: "https://www.cs.jhu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: CS Master's student at JHU. Now focus on robotics and computer graphics.
+bio: CS Master's student at JHU.
 
 interests:
+- Machine Learning
 - Robotics
 - Computer Graphics
 - Computer Vision
-- Machine Learning
+
 
 education:
   courses:
@@ -51,7 +52,7 @@ social:
   link: https://github.com/gcushen
 - icon: cv
   icon_pack: ai
-  link: files/CV_HanwenShen.pdf
+  link: files/CV_HS.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-CS Master's student at JHU. Previous experience in computer vision and software engineering. Bachelor's thesis proposes a constraint to better describe occlusion in the stereo matching problem using contour information. Now focus on robotics and computer graphics.
+CS Master's student at JHU. Previous experience in computer vision and software engineering. Bachelor's thesis proposes a constraint to better describe occlusion in the stereo matching problem using contour information. Now study ML, robotics, and computer graphics.
