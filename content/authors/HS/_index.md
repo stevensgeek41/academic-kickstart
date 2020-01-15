@@ -23,8 +23,8 @@ bio: CS Master's student at JHU.
 interests:
 - Machine Learning
 - Robotics
-- Computer Graphics
 - Computer Vision
+- Computer Graphics
 
 
 education:

@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Who should be the NBA MVP?
-summary: "AI course project, using Decision Tree model and the data from 2007~2017 NBA MVP top three candidates to predict who should be the NBA MVP"
+title: "UR5 Robot Path Planner"
+summary: "A Probabilistic Road Map path planner based on Obstacle Sampling, enabling narrow path planning for UR5 robot arm such as entering a car frame"
 authors:
 - HS
 tags:
-- Machine Learning
+- Robotics
 categories: []
-date: 2018-02-02T21:16:24-05:00
+date: 2019-10-31T08:32:20-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

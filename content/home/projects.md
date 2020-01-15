@@ -34,12 +34,12 @@ subtitle = ""
     tag = "Robotics"
 
   [[content.filter_button]]
-    name = "Computer Graphics"
-    tag = "Computer Graphics"
-
-  [[content.filter_button]]
     name = "Computer Vision"
     tag = "Computer Vision"
+
+  [[content.filter_button]]
+    name = "Computer Graphics"
+    tag = "Computer Graphics"
 
   [[content.filter_button]]
     name = "Software Engineering"
