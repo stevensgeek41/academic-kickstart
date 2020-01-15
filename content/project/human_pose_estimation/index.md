@@ -9,7 +9,7 @@ tags:
 - Computer Vision
 - Software Engineering
 categories: []
-date: 2019-01-02T21:08:19-05:00
+date: 2019-01-15T21:08:19-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

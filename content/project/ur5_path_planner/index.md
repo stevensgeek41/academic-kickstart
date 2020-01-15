@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "UR5 Robot Path Planner"
-summary: "A Probabilistic Road Map path planner based on Obstacle Sampling, enabling narrow path planning for UR5 robot arm such as entering a car frame"
+summary: "A Probabilistic Road Map path planner based on Obstacle Sampling, enabling narrow collision-free path planning for UR5 robot arm such as entering a car frame"
 authors:
 - HS
 tags:
