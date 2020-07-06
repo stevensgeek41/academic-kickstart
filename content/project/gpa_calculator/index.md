@@ -6,7 +6,7 @@ summary: "A simple website providing GPA calculating function based on React, fe
 authors:
 - HS
 tags:
-- Robotics
+- Software Engineering
 categories: []
 date: 2020-05-29T08:32:20-05:00
 
