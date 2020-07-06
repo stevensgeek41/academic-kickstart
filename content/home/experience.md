@@ -29,7 +29,6 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Contributed to a AWS marketplace private offer list enhancement project, featuring adding filtering function etc.
-  * Used React as the frontend architecture, Spring MVC as the backend architecture
   """
 
 [[experience]]
