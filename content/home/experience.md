@@ -17,6 +17,21 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "SDE Intern"
+  company = "Amazon Web Services, Inc."
+  company_url = "https://aws.amazon.com/"
+  location = "Baltimore, USA"
+  date_start = "2020-05-26"
+  date_end = "2020-08-14"
+  description = """
+  Responsibilities include:
+  
+  * Contributed to a AWS marketplace private offer list enhancement project, featuring adding filtering function etc.
+  * Used React as the frontend architecture, Spring MVC as the backend architecture
+  """
+
 [[experience]]
   title = "Undergraduate Research Assistant"
   company = "Software Intelligence Laboratory of Beijing Institute of Technology"
