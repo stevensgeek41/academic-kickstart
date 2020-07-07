@@ -21,11 +21,11 @@ organizations:
 bio: CS Master's student at JHU.
 
 interests:
-- Frontend Development
-- Machine Learning
 - Robotics
-- Computer Vision
 - Computer Graphics
+- Machine Learning
+- Computer Vision
+- Frontend Development
 
 
 education:
