@@ -10,22 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: CS Master's student
+role: SDE
 
 # Organizations/Affiliations
 organizations:
-- name: Johns Hopkins University
-  url: "https://www.cs.jhu.edu/"
+- name: Amazon Web Services
+  url: "https://aws.amazon.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: CS Master's student at JHU.
+bio: Incoming SDE at AWS.
 
 interests:
+- Web Development
+- Software Engineering
 - Robotics
-- Computer Graphics
 - Machine Learning
-- Computer Vision
-- Frontend Development
 
 
 education:
@@ -70,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-CS Master's student at JHU. Previous experience in computer vision and software engineering. Bachelor's thesis proposes a constraint to better describe occlusion in the stereo matching problem using contour information. Now study ML, robotics, and computer graphics.
+Incoming SDE (Software Development Engineer) at AWS (Amazon Web Services). JHU Alumni.

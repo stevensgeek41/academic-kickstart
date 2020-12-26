@@ -38,10 +38,6 @@ subtitle = ""
     tag = "Computer Vision"
 
   [[content.filter_button]]
-    name = "Computer Graphics"
-    tag = "Computer Graphics"
-
-  [[content.filter_button]]
     name = "Software Engineering"
     tag = "Software Engineering"
   
