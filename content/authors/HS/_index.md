@@ -31,7 +31,7 @@ education:
   courses:
   - course: M.S.E. in Computer Science
     institution: Johns Hopkins University
-    year: 2021
+    year: 2020
   - course: BSc in Computer Science
     institution: Beijing Institute of Technology
     year: 2019
@@ -52,7 +52,7 @@ social:
   link: https://github.com/gcushen
 - icon: cv
   icon_pack: ai
-  link: files/CV_HanwenShen.pdf
+  link: files/CV_HS.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
