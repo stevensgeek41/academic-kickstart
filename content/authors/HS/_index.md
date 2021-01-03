@@ -18,7 +18,7 @@ organizations:
   url: "https://aws.amazon.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Incoming SDE at AWS.
+bio: Incoming SDE at AWS
 
 interests:
 - Web Development
