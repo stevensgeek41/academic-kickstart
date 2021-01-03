@@ -11,7 +11,7 @@ categories: []
 date: 2020-05-29T08:32:20-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://stevensgeek41.github.io/gpa-calculator/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -42,4 +42,3 @@ url_video: ""
 slides: ""
 ---
 
-Detailed description coming soon!

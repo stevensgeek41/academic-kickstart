@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Contributed to a AWS marketplace private offer list enhancement project, featuring adding filtering function etc.
+  * Full-stack web development
   """
 
 [[experience]]
