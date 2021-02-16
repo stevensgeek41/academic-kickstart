@@ -18,7 +18,7 @@ organizations:
   url: "https://aws.amazon.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Incoming SDE at AWS
+bio: SDE at AWS
 
 interests:
 - Web Development
@@ -49,7 +49,7 @@ social:
   link: https://www.linkedin.com/in/hanwen-shen-b17a36190/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/stevensgeek41
 - icon: cv
   icon_pack: ai
   link: files/Undefined.pdf
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Incoming SDE (Software Development Engineer) at AWS (Amazon Web Services). JHU Alumni.
+SDE (Software Development Engineer) at AWS (Amazon Web Services). JHU Alumni.
