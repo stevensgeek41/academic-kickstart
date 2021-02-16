@@ -24,8 +24,6 @@ date_format = "Jan 2006"
   company_url = "https://aws.amazon.com/"
   location = "Seattle, WA"
   date_start = "2021-02-15"
-  date_end = "present"
-  description = """
 
 [[experience]]
   title = "SDE Intern"
